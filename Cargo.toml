@@ -1,0 +1,9 @@
+[package]
+name = "sntru-prime"
+version = "0.0.0"
+edition = "2021"
+author = "Jake <jake@spacedrive.com>"
+license = "BSD-2-Clause"
+description = "A Rust-based implementation of SNTRU-Prime"
+
+[dependencies]
